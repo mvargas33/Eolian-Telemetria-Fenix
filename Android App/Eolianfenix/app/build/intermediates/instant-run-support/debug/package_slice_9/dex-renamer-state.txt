@@ -1,0 +1,4 @@
+#Thu Aug 24 01:55:37 CLST 2017
+base.0=C\:\\Users\\Maximiliano Vargas\\Documents\\Android\\Eolianfenix\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=C\:\\Users\\Maximiliano Vargas\\Documents\\Android\\Eolianfenix\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

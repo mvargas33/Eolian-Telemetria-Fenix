@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Google Drive\\Universidad de Chile\\Telemetria eolian\\Eolian fenix\\Android development\\Eolianfenix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\eolian_icon.png",
+        "source": "D:\\Google Drive\\Universidad de Chile\\Telemetria eolian\\Eolian fenix\\Android development\\Eolianfenix\\app\\src\\main\\res\\mipmap-hdpi\\eolian_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Maximiliano Vargas\\Documents\\Android\\Eolianfenix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\e_logo_80x80_72dpi_rgb_12082016.png",
+        "source": "C:\\Users\\Maximiliano Vargas\\Documents\\Android\\Eolianfenix\\app\\src\\main\\res\\mipmap-hdpi\\e_logo_80x80_72dpi_rgb_12082016.png"
+    },
+    {
+        "merged": "C:\\Users\\Maximiliano Vargas\\Documents\\Android\\Eolianfenix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\round_corner_progress_icon.png",
+        "source": "C:\\Users\\Maximiliano Vargas\\.android\\build-cache\\b6bce0f6516ecd6fc9a11347ed595eb72e77fc44\\output\\res\\mipmap-hdpi\\round_corner_progress_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Maximiliano Vargas\\Documents\\Android\\Eolianfenix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\eolian_icon.png",
+        "source": "C:\\Users\\Maximiliano Vargas\\Documents\\Android\\Eolianfenix\\app\\src\\main\\res\\mipmap-hdpi\\eolian_icon.png"
+    },
+    {
+        "merged": "D:\\Google Drive\\Universidad de Chile\\Telemetria eolian\\Eolian fenix\\Android development\\Eolianfenix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\e_logo_80x80_72dpi_rgb_12082016.png",
+        "source": "D:\\Google Drive\\Universidad de Chile\\Telemetria eolian\\Eolian fenix\\Android development\\Eolianfenix\\app\\src\\main\\res\\mipmap-hdpi\\e_logo_80x80_72dpi_rgb_12082016.png"
+    },
+    {
+        "merged": "D:\\Google Drive\\Universidad de Chile\\Telemetria eolian\\Eolian fenix\\Android development\\Eolianfenix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Google Drive\\Universidad de Chile\\Telemetria eolian\\Eolian fenix\\Android development\\Eolianfenix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Google Drive\\Universidad de Chile\\Telemetria eolian\\Eolian fenix\\Android development\\Eolianfenix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\round_corner_progress_icon.png",
+        "source": "C:\\Users\\Maximiliano Vargas\\.android\\build-cache\\b6bce0f6516ecd6fc9a11347ed595eb72e77fc44\\output\\res\\mipmap-hdpi\\round_corner_progress_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Maximiliano Vargas\\Documents\\Android\\Eolianfenix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Maximiliano Vargas\\Documents\\Android\\Eolianfenix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
