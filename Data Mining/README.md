@@ -8,5 +8,5 @@ https://drive.google.com/drive/folders/1RbLffGfYojivuHKm04u19NV23NZJrsrs?usp=sha
 
 # How to use filter
 
-* Install Python 3 and Pony via pip https://docs.ponyorm.org/firststeps.html
+* Install Python 3, then install Pony via pip https://docs.ponyorm.org/firststeps.html
 * Run the programs as needed
