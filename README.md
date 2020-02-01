@@ -19,4 +19,4 @@ The complete system includes 3 Arduinos, one Android tablet and one PC as main c
 
 # Notes
 
-The software is not optimal at all. It was developed under critical circumstances. There is a whole new telemetry system developed for the new solar car of the team Eolian. This version works with Eolian Fenix and can be found here: https://github.com/mvargas33/Telemetria_Auriga
+The software is not optimal at all. It was developed under critical circumstances. There is a whole new telemetry system developed for the new solar car of the team Eolian. This version is compatible with Eolian Fenix and can be found here: https://github.com/mvargas33/Telemetria_Auriga
