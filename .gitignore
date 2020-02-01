@@ -1,0 +1,250 @@
+# Personalizado
+Qt\ Creator/monitor-eolian-Qt/monitor_eolian.user
+
+# Eolianfenix Anroid App
+
+Android/Eolianfenix/*.iml
+Android/Eolianfenix/.gradle
+Android/Eolianfenix/local.properties
+Android/Eolianfenix/.idea/workspace.xml
+Android/Eolianfenix/.idea/libraries
+Android/Eolianfenix/.DS_Store
+Android/Eolianfenix/build
+Android/Eolianfenix/captures
+Android/Eolianfenix/.idea
+
+# built application files
+Android/Eolianfenix/*.apk
+Android/Eolianfenix/*.ap_
+
+# files for the dex VM
+Android/Eolianfenix/*.dex
+
+# Java class files
+Android/Eolianfenix/*.class
+
+# generated files
+Android/Eolianfenix/bin/
+Android/Eolianfenix/gen/
+
+# Key
+Android/Eolianfenix/*.jks
+
+# Local configuration file (sdk path, etc)
+Android/Eolianfenix/local.properties
+
+# Intellij project files
+Android/Eolianfenix/*.iml
+Android/Eolianfenix/*.ipr
+Android/Eolianfenix/*.iws
+Android/Eolianfenix/.idea/
+Android/Eolianfenix/*.prefs
+
+# Gradle
+Android/Eolianfenix/build/
+Android/Eolianfenix/.gradle
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+Android/Eolianfenix/.idea
+
+# User-specific stuff
+Android/Eolianfenix/.idea/**/workspace.xml
+Android/Eolianfenix/.idea/**/tasks.xml
+Android/Eolianfenix/.idea/**/usage.statistics.xml
+Android/Eolianfenix/.idea/**/dictionaries
+Android/Eolianfenix/.idea/**/shelf
+
+# Generated files
+Android/Eolianfenix/.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+Android/Eolianfenix/.idea/**/dataSources/
+Android/Eolianfenix/.idea/**/dataSources.ids
+Android/Eolianfenix/.idea/**/dataSources.local.xml
+Android/Eolianfenix/.idea/**/sqlDataSources.xml
+Android/Eolianfenix/.idea/**/dynamic.xml
+Android/Eolianfenix/.idea/**/uiDesigner.xml
+Android/Eolianfenix/.idea/**/dbnavigator.xml
+
+# Gradle
+Android/Eolianfenix/.idea/**/gradle.xml
+Android/Eolianfenix/.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+Android/Eolianfenix/.idea/modules.xml
+Android/Eolianfenix/.idea/*.iml
+Android/Eolianfenix/.idea/modules
+Android/Eolianfenix/*.iml
+Android/Eolianfenix/*.ipr
+
+# CMake
+Android/Eolianfenix/cmake-build-*/
+
+# Mongo Explorer plugin
+Android/Eolianfenix/.idea/**/mongoSettings.xml
+
+# File-based project format
+Android/Eolianfenix/*.iws
+
+# IntelliJ
+Android/Eolianfenix/out/
+
+# mpeltonen/sbt-idea plugin
+Android/Eolianfenix/.idea_modules/
+
+# JIRA plugin
+Android/Eolianfenix/atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+Android/Eolianfenix/.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+Android/Eolianfenix/com_crashlytics_export_strings.xml
+Android/Eolianfenix/crashlytics.properties
+Android/Eolianfenix/crashlytics-build.properties
+Android/Eolianfenix/fabric.properties
+
+# Editor-based Rest Client
+Android/Eolianfenix/.idea/httpRequests
+
+# Android studio 3.1+ serialized cache file
+Android/Eolianfenix/.idea/caches/build_file_checksums.ser
+
+######## VSCODE ########
+Android/Eolianfenix/.vscode
+Android/Eolianfenix/.vscode/*
+Android/Eolianfenix/!.vscode/settings.json
+Android/Eolianfenix/!.vscode/tasks.json
+Android/Eolianfenix/!.vscode/launch.json
+Android/Eolianfenix/!.vscode/extensions.json
+Android/Eolianfenix/*.code-workspace
+
+##################################################################
+
+# UsbSerial Example Anroid App
+
+Android/UsbSerial-master/*.iml
+Android/UsbSerial-master/.gradle
+Android/UsbSerial-master/local.properties
+Android/UsbSerial-master/.idea/workspace.xml
+Android/UsbSerial-master/.idea/libraries
+Android/UsbSerial-master/.DS_Store
+Android/UsbSerial-master/build
+Android/UsbSerial-master/captures
+Android/UsbSerial-master/.idea
+
+# built application files
+Android/UsbSerial-master/*.apk
+Android/UsbSerial-master/*.ap_
+
+# files for the dex VM
+Android/UsbSerial-master/*.dex
+
+# Java class files
+Android/UsbSerial-master/*.class
+
+# generated files
+Android/UsbSerial-master/bin/
+Android/UsbSerial-master/gen/
+
+# Key
+Android/UsbSerial-master/*.jks
+
+# Local configuration file (sdk path, etc)
+Android/UsbSerial-master/local.properties
+
+# Intellij project files
+Android/UsbSerial-master/*.iml
+Android/UsbSerial-master/*.ipr
+Android/UsbSerial-master/*.iws
+Android/UsbSerial-master/.idea/
+Android/UsbSerial-master/*.prefs
+
+# Gradle
+Android/UsbSerial-master/build/
+Android/UsbSerial-master/.gradle
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+Android/UsbSerial-master/.idea
+
+# User-specific stuff
+Android/UsbSerial-master/.idea/**/workspace.xml
+Android/UsbSerial-master/.idea/**/tasks.xml
+Android/UsbSerial-master/.idea/**/usage.statistics.xml
+Android/UsbSerial-master/.idea/**/dictionaries
+Android/UsbSerial-master/.idea/**/shelf
+
+# Generated files
+Android/UsbSerial-master/.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+Android/UsbSerial-master/.idea/**/dataSources/
+Android/UsbSerial-master/.idea/**/dataSources.ids
+Android/UsbSerial-master/.idea/**/dataSources.local.xml
+Android/UsbSerial-master/.idea/**/sqlDataSources.xml
+Android/UsbSerial-master/.idea/**/dynamic.xml
+Android/UsbSerial-master/.idea/**/uiDesigner.xml
+Android/UsbSerial-master/.idea/**/dbnavigator.xml
+
+# Gradle
+Android/UsbSerial-master/.idea/**/gradle.xml
+Android/UsbSerial-master/.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+Android/UsbSerial-master/.idea/modules.xml
+Android/UsbSerial-master/.idea/*.iml
+Android/UsbSerial-master/.idea/modules
+Android/UsbSerial-master/*.iml
+Android/UsbSerial-master/*.ipr
+
+# CMake
+Android/UsbSerial-master/cmake-build-*/
+
+# Mongo Explorer plugin
+Android/UsbSerial-master/.idea/**/mongoSettings.xml
+
+# File-based project format
+Android/UsbSerial-master/*.iws
+
+# IntelliJ
+Android/UsbSerial-master/out/
+
+# mpeltonen/sbt-idea plugin
+Android/UsbSerial-master/.idea_modules/
+
+# JIRA plugin
+Android/UsbSerial-master/atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+Android/UsbSerial-master/.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+Android/UsbSerial-master/com_crashlytics_export_strings.xml
+Android/UsbSerial-master/crashlytics.properties
+Android/UsbSerial-master/crashlytics-build.properties
+Android/UsbSerial-master/fabric.properties
+
+# Editor-based Rest Client
+Android/UsbSerial-master/.idea/httpRequests
+
+# Android studio 3.1+ serialized cache file
+Android/UsbSerial-master/.idea/caches/build_file_checksums.ser
+
+######## VSCODE ########
+Android/UsbSerial-master/.vscode
+Android/UsbSerial-master/.vscode/*
+Android/UsbSerial-master/!.vscode/settings.json
+Android/UsbSerial-master/!.vscode/tasks.json
+Android/UsbSerial-master/!.vscode/launch.json
+Android/UsbSerial-master/!.vscode/extensions.json
+Android/UsbSerial-master/*.code-workspace

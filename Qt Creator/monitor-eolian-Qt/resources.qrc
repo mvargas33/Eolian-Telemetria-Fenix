@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>eolian_title_large_blue.png</file>
+	<file alias="styles.qss">stylesheet.qss</file>
+	<file>fonts/Roboto-Regular.ttf</file>
+	<file>fonts/Roboto-Bold.ttf</file>
+	<file alias="config.ini">config/config.ini</file>
+    </qresource>
+</RCC>
