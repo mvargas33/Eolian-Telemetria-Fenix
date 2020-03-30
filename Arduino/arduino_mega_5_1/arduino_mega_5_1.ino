@@ -1932,7 +1932,7 @@ mostrarVelocidad(velocidad,consumo);
       BMS[10]= lowThermistorID;
       BMS[11]= avgTemp;
       BMS[12]= internalTemp;
-      BMS[13]= min_volt_id;
+      BMS[13]= max_volt_id;
       BMS[14]= min_volt_id;
       if(serial_exp){
         Serial.print("HIGH_TEMP,");Serial.print(highTemperature);Serial.print("\n");
