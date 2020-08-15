@@ -1,13 +1,14 @@
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. 
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+Our aim as a team is to share this software as an academic material, and contribute to solar car's community. We also want to give attribution to the people who put the effort to make this software possible. You may license your contributions to adaptations of this BY-SA 4.0 work under [GPLv3 Licence][GPLv3], it's BY-SA 4.0 compatible.
+
+[GPLv3]: https://www.gnu.org/licenses/gpl-3.0.html
 
 # Eolian Fénix Telemetry System
 
