@@ -1,3 +1,14 @@
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
 # Eolian Fénix Telemetry System
 
 The complete system includes 3 Arduinos, one Android tablet and one PC as main components. This repository attaches all the .ino programs. The Android app is used to show speed and basic data inside the solar car. The Qt Application is used in an external PC as a monitoring interface.
